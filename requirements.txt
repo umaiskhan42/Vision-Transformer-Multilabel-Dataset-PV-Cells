@@ -1,0 +1,12 @@
+tensorflow
+keras
+numpy
+pandas
+os
+cv2-python
+matplotlib
+scikit-learn
+Pillow
+pathlib
+vit-keras
+tensorflow-addons
